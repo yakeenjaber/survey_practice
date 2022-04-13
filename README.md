@@ -1,13 +1,16 @@
 PROJECT
+
 The purpose of this project is to conduct an online survey and ask user to enter their names, ages, and genders.
 HOWEVER, to gather that information from user, we should first ask if they are willing to participate in the survey or not. If a user does not want to participate in the survey, then we SHOULD NOT ask any question to that user. 
 
 
 BEFORE WRITING THE ACTUAL PROGRAM
+
 There are 2 classes that needs to be done to store data properly
 
 
 QUESTIONS TO ASK IN PROGRAM
+
 Would you like to join our survey? (Y/N)
 
 If user enters Y, then ask below questions and store data but if user enters N, then do not ask those questions and go for another user.
