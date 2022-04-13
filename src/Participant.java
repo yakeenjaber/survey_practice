@@ -9,7 +9,7 @@ public class Participant {
 
 
     /*
-    Declare instance variables for each participants as below
+    Declare instance variables for each participant as below
     name -> can be String
     age -> can be int
     gender -> can be char
